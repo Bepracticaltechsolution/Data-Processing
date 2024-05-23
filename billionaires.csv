@@ -1,0 +1,101 @@
+rank,name,net_worth_billions_usd,age,country,source,industries
+1,JEFF BEZOS,113,56,United States,Amazon,Technology
+2,BILL GATES,98,64,United States,Microsoft,Technology
+3,BERNARD ARNAULT & FAMILY,76,71,France,LVMH,Fashion & Retail
+4,WARREN BUFFETT,67.5,89,United States,Berkshire Hathaway,Finance & Investments
+5,LARRY ELLISON,59,75,United States,software,Technology
+6,AMANCIO ORTEGA,55.1,84,Spain,Zara,Fashion & Retail
+7,MARK ZUCKERBERG,54.7,35,United States,Facebook,Technology
+8,JIM WALTON,54.6,71,United States,Walmart,Fashion & Retail
+9,ALICE WALTON,54.4,70,United States,Walmart,Fashion & Retail
+10,ROB WALTON,54.1,75,United States,Walmart,Fashion & Retail
+11,STEVE BALLMER,52.7,64,United States,Microsoft,Technology
+12,CARLOS SLIM HELU & FAMILY,52.1,80,Mexico,telecom,Telecom
+13,LARRY PAGE,50.9,47,United States,Google,Technology
+14,SERGEY BRIN,49.1,46,United States,Google,Technology
+15,FRANCOISE BETTENCOURT MEYERS & FAMILY,48.9,66,France,L'Oreal,Fashion & Retail
+16,MICHAEL BLOOMBERG,48,78,United States,Bloomberg LP,Media & Entertainment
+17,JACK MA,38.8,55,China,e-commerce,Technology
+18,CHARLES KOCH,38.2,84,United States,Koch Industries,Diversified
+18,JULIA KOCH & FAMILY,38.2,57,United States,Koch Industries,Diversified
+20,MA HUATENG,38.1,48,China,internet media,Technology
+21,MUKESH AMBANI,36.8,62,India,"petrochemicals, oil & gas",Energy
+22,MACKENZIE SCOTT,36,50,United States,Amazon.com,Technology
+23,BEATE HEISTER & KARL ALBRECHT JR.,33.3,70,Germany,supermarkets,Fashion & Retail
+24,DAVID THOMSON & FAMILY,31.6,62,Canada,media,Media & Entertainment
+25,PHIL KNIGHT & FAMILY,29.5,82,United States,Nike,Fashion & Retail
+26,LEE SHAU KEE,28.1,92,Hong Kong,real estate,Real Estate
+27,FRANÃ‡OIS PINAULT & FAMILY,27,83,France,luxury goods,Fashion & Retail
+28,SHELDON ADELSON,26.8,86,United States,casinos,Gambling & Casinos
+29,JACQUELINE MARS,24.7,80,United States,"candy, pet food",Food & Beverage
+29,JOHN MARS,24.7,84,United States,"candy, pet food",Food & Beverage
+31,ELON MUSK,24.6,48,United States,"Tesla, SpaceX",Automotive
+32,GIOVANNI FERRERO,24.5,55,Italy,"Nutella, chocolates",Food & Beverage
+33,MICHAEL DELL,22.9,55,United States,Dell computers,Technology
+34,HUI KA YAN,21.8,61,China,real estate,Real Estate
+35,LI KA-SHING,21.7,91,Hong Kong,diversified,Diversified
+36,HE XIANGJIAN,21.6,77,China,home appliances,Manufacturing
+36,JIM SIMONS,21.6,81,United States,hedge funds,Finance & Investments
+38,YANG HUIYAN & FAMILY,20.3,38,China,real estate,Real Estate
+39,JOSEPH SAFRA,19.9,81,Brazil,banking,Finance & Investments
+40,DIETER SCHWARZ,19.8,80,Germany,retail,Fashion & Retail
+41,VLADIMIR POTANIN,19.7,59,Russia,metals,Metals & Mining
+41,TADASHI YANAI & FAMILY,19.7,71,Japan,fashion retail,Fashion & Retail
+43,QIN YINGLIN & FAMILY,18.5,54,China,pig breeding,Food & Beverage
+44,LUKAS WALTON,18.4,33,United States,Walmart,Fashion & Retail
+45,VLADIMIR LISIN,18.1,63,Russia,"steel, transport",Metals & Mining
+46,RAY DALIO,18,70,United States,hedge funds,Finance & Investments
+47,TAKEMITSU TAKIZAKI,17.4,74,Japan,sensors,Manufacturing
+48,LEONID MIKHELSON,17.1,64,Russia,"gas, chemicals",Energy
+48,ALAIN WERTHEIMER,17.1,71,France,Chanel,Fashion & Retail
+48,GERARD WERTHEIMER,17.1,69,France,Chanel,Fashion & Retail
+51,"THEO ALBRECHT, JR. & FAMILY",17,69,Germany,"Aldi, Trader Joe's",Fashion & Retail
+51,LEN BLAVATNIK,17,62,United States,diversified,Diversified
+51,WILLIAM LEI DING,17,48,China,online games,Technology
+54,SUSANNE KLATTEN,16.8,57,Germany,"BMW, pharmaceuticals",Automotive
+54,ALEXEY MORDASHOV & FAMILY,16.8,54,Russia,"steel, investments",Metals & Mining
+56,MASAYOSHI SON,16.6,62,Japan,"internet, telecom",Telecom
+57,COLIN ZHENG HUANG,16.5,40,China,e-commerce,Technology
+57,DIETRICH MATESCHITZ,16.5,75,Austria,Red Bull,Food & Beverage
+59,JOSEPH LAU,16.4,68,Hong Kong,real estate,Real Estate
+59,LAURENE POWELL JOBS & FAMILY,16.4,56,United States,"Apple, Disney",Technology
+61,ZHANG YIMING,16.2,36,China,software,Technology
+62,LEONARDO DEL VECCHIO & FAMILY,16.1,84,Italy,eyeglasses,Fashion & Retail
+63,DONALD BREN,15.5,87,United States,real estate,Real Estate
+64,STEPHEN SCHWARZMAN,15.4,73,United States,investments,Finance & Investments
+65,VAGIT ALEKPEROV,15.2,69,Russia,oil,Energy
+65,LEE MAN TAT,15.2,90,Hong Kong,food,Food & Beverage
+65,WANG WEI,15.2,50,China,package delivery,Service
+68,PETR KELLNER,14.9,55,Czechia,"finance, telecommunications",Finance & Investments
+68,RUPERT MURDOCH & FAMILY,14.9,89,United States,"newspapers, TV network",Media & Entertainment
+70,LEONARD LAUDER,14.6,83,United States,Estee Lauder,Fashion & Retail
+70,ZHONG HUIJUAN,14.6,59,China,pharmaceuticals,Healthcare
+72,GENNADY TIMCHENKO,14.4,67,Russia,"oil, gas",Energy
+73,THOMAS PETERFFY,14.3,75,United States,discount brokerage,Finance & Investments
+74,KLAUS-MICHAEL KUEHNE,14.2,82,Germany,shipping,Logistics
+75,LEE KUN-HEE,14.1,78,South Korea,Samsung,Diversified
+76,WANG JIANLIN,14,65,China,real estate,Real Estate
+77,STEVE COHEN,13.9,63,United States,hedge funds,Finance & Investments
+78,RADHAKISHAN DAMANI & FAMILY,13.8,65,India,"retail, investments",Fashion & Retail
+78,CARL ICAHN,13.8,84,United States,investments,Finance & Investments
+80,R. BUDI HARTONO,13.6,79,Indonesia,"banking, tobacco",Finance & Investments
+81,DHANIN CHEARAVANONT,13.5,80,Thailand,diversified,Diversified
+81,STEFAN PERSSON,13.5,72,Sweden,H&M,Fashion & Retail
+83,ALISHER USMANOV,13.4,66,Russia,"steel, telecom, investments",Metals & Mining
+84,ERIC SCHMIDT,13.2,64,United States,Google,Technology
+85,GINA RINEHART,13.1,66,Australia,mining,Metals & Mining
+86,WALTER P.J. DROEGE,13,67,Germany,consulting,Service
+86,MIKHAIL FRIDMAN,13,55,Russia,"oil, banking, telecom",Energy
+86,MICHAEL HARTONO,13,80,Indonesia,"banking, tobacco",Manufacturing
+86,DIETMAR HOPP & FAMILY,13,79,Germany,software,Technology
+86,ZHANG ZHIDONG,13,48,China,internet media,Technology
+91,HINDUJA BROTHERS,12.9,85,United Kingdom,diversified,Diversified
+91,HEINZ HERMANN THIELE & FAMILY,12.9,79,Germany,brakes,Construction & Engineering
+93,CHARLENE DE CARVALHO-HEINEKEN & FAMILY,12.8,65,Netherlands,Heineken,Food & Beverage
+94,EMMANUEL BESNIER,12.7,49,France,cheese,Food & Beverage
+95,ANDREY MELNICHENKO,12.5,48,Russia,"coal, fertilizers",Energy
+96,LI SHUFU,12.4,56,China,automobiles,Automotive
+96,HASSO PLATTNER & FAMILY,12.4,76,Germany,software,Technology
+98,LIU YONGHAO & FAMILY,12.3,68,China,agribusiness,Service
+98,STEFAN QUANDT,12.3,53,Germany,BMW,Automotive
+100,KEN GRIFFIN,12.1,51,United States,hedge funds,Finance & Investments
